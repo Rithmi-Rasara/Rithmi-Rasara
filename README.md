@@ -21,7 +21,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/Rithmi Rasara](https://www.linkedin.com/in/rithmi-rasara-a30694392?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/rithmi-rasara-a30694392" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rithmi-Rasara" target="_blank">
@@ -41,14 +41,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rithmi-rasara-a30694392" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rithmi-Rasara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rithmi-Rasara&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithmi-Rasara&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithmi-Rasara&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
