@@ -9,12 +9,13 @@
 
 ### 🚀 About Me
 
-- 🎓 Diploma in Software Engineering | HND Student at **NIBM**
-- 💻 Aspiring Software Developer — Java | C | Web Development
-- 🌱 Currently building projects in full-stack web & mobile development
+- 🎓 Currently pursuing my **HND in Software Engineering**, after completing a Diploma in Software Engineering
+- 💻 Passionate about building **full-stack web applications** using Java, C, C++ & JavaScript
+- 🔍 I love solving real-world problems through clean, efficient code — from healthcare systems to smart IoT devices
+- 📚 Always learning — currently exploring advanced Java & modern web development frameworks
+- 🤝 Open to collaborating on interesting projects & internship opportunities
 - 📍 Based in Galle, Sri Lanka
-- ⚡ Fun fact: I enjoy turning real-world problems into practical, working software
-
+- 💬 Ask me about: Java, Data Structures, Full-Stack Development, or my latest project!
 ---
 
 ### 🔗 Connect with Me
