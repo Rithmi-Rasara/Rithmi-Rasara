@@ -20,7 +20,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/Rithmi Rasara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rithmi-Rasara" target="_blank">
@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <i>"Never give up — obstacles are just steps 🌸"</i>
+  <i>"I don't fear bugs — I fear not trying.💡✨"</i>
 </p>
 
 <p align="center">
