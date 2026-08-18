@@ -21,7 +21,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Rithmi Rasara" target="_blank">
+  <a href="[https://linkedin.com/in/Rithmi Rasara](https://www.linkedin.com/in/rithmi-rasara-a30694392?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rithmi-Rasara" target="_blank">
