@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rithmi Rasara</h1>
+<h3 align="center">Software Engineering Student · Aspiring Developer</h3>
 
-<!--
-**Rithmi-Rasara/Rithmi-Rasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+C+%7C+Web+Development;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Diploma in Software Engineering | HND Student at **NIBM**
+- 💻 Aspiring Software Developer — Java | C | Web Development
+- 🌱 Currently building projects in full-stack web & mobile development
+- 📍 Based in Galle, Sri Lanka
+- ⚡ Fun fact: I enjoy turning real-world problems into practical, working software
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rithmi-Rasara" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,mysql,nodejs,git,vscode,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rithmi-Rasara&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithmi-Rasara&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithmi-Rasara&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [MotherCarePlus](https://github.com/Rithmi-Rasara/MotherCarePlus) | Maternity healthcare management system connecting pregnant mothers, doctors, midwives & administrators — pregnancy tracking, appointments & more | Web & Mobile |
+| [Library-Management-System](https://github.com/Rithmi-Rasara/Library-Management-System) | Smart library management system using Doubly Linked List, Circular Linked List, BST, FIFO Queues — with recommendations, expiry tracking & fine prediction | JavaScript |
+| [Smart-Gadget-Marketplace-Web-Application](https://github.com/Rithmi-Rasara/Smart-Gadget-Marketplace-Web-Application) | Smart gadget marketplace web application | HTML |
+| [Breethly-Air-Quality-System](https://github.com/Rithmi-Rasara/Breethly-Air-Quality-System) | Smart Air Quality Monitoring System using NodeMCU ESP8266, MQ-135, DHT22, OLED display, buzzer, relay & Firebase for real-time monitoring | HTML |
+| [BrewLabCoffeeShop](https://github.com/Rithmi-Rasara/BrewLabCoffeeShop) | Android mobile application for ordering coffee, managing carts & deliveries | Java |
+| [AutomaticBabySyrupDispenser](https://github.com/Rithmi-Rasara/AutomaticBabySyrupDispenser) | Automatic baby syrup dispenser system | C++ |
+
+---
+
+<p align="center">
+  <i>"Never give up — obstacles are just steps 🌸"</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rithmi-Rasara&label=Profile+Views&color=58A6FF&style=flat" alt="profile views" />
+</p>
